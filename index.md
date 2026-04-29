@@ -10,4 +10,8 @@ show_call_box: true
 
 # Atrium Greek Summer School 2026.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+## Language Technology and Artificial Intelligence for Digital Humanities
+
+**Location**: Athens, Greece<br>
+**Dates**:  21-25 September 2026<br>
+**Number of participants**: max 15<br>
