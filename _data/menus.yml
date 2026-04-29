@@ -1,18 +1,18 @@
 main:
   - name: "Apply"
-    url: "/apply/"
+    url: "/apply"
     weight: 4
   - name: "Program"
-    url: "/program/"
+    url: "/program"
     weight: 5
   - name: "About"
-    url: "/about/"
+    url: "/about"
     weight: 2
   - name: "CLARIN:EL"
-    url: "/clarinel/"
+    url: "/clarinel"
     weight: 3
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact"
     weight: 6
 
 footer:
