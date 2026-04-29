@@ -27,7 +27,7 @@ bodyClass: "page-home"
     <br>
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% for service in site.topics limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
@@ -42,7 +42,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Topics</a>
+        <a class="button button-primary" href="{{ "topics" | relative_url }}">View All Topics</a>
       </div>
     </div>
   </div>
