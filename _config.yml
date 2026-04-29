@@ -2,6 +2,7 @@ baseurl: "/atrium-summer-school-2026"
 url: "https://atrium-athenarc.github.io"
 title: Atrium Greek Summer School 2026
 description: This is the website for the Atrium project's TNA Summer Schools held in Greece.
+theme: null
 
 logo:
   mobile: "images/logo/logo.png"
