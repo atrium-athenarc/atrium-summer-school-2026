@@ -15,4 +15,4 @@ show_call_box: true
 **Location**: Athens, Greece<br>
 **Dates**:  21-25 September 2026<br>
 **Number of participants**: max 15<br>
-**Apply**: <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools. </a><br>
+**Apply**: <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools</a><br>
