@@ -120,3 +120,17 @@ body {
 .font_color_red {
   color: #ae503e;
 }
+
+.logo-group {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo-group img {
+  display: block;
+}
+
+.logo-group a:first-child {
+  margin-top: 20px;
+}
