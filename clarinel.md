@@ -18,7 +18,3 @@ The <a href="https://www.clarin.gr/en" target="_blank">CLARIN:EL</a> Research In
 - language processing tools, web services and workflows (such as tokenizers, part of speech taggers, dependency parsers, terminology extractors, information extractors, named entity recognizers, etc.) for the processing of digital language resources.
 
 CLARIN:EL ensures digital preservation of the hosted language data and processing services; it supports the creation, curation, sharing and reuse of language resources, tools and services. The use of data and services is legally protected by appropriate licenses ensuring lawful use. Through its connection to CLARIN ERIC, it also provides access to the European network.
-
-## How to apply
-
-For more information on the Applications Process, please see <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools. </a>

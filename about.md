@@ -38,3 +38,7 @@ Topics covered in this training school will include:
 - Metadata for corpus documentation 
 - FAIR principles for open access
 - Cross-disciplinary use cases of LT/AI 
+
+## How to apply
+
+For more information on the Applications Process, please see <a href="https://atrium-research.eu/tna-summer-schools/" target="_blank">ATRIUM TNA Summer Schools. </a>
