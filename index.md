@@ -10,7 +10,7 @@ show_call_box: true
 
 # Language Technology and Artificial Intelligence for Digital Humanities
 
-## Summer school organized by CLARIN:EL Infrastructure, Institute for Language and Speech Processing and Athena Research Center
+## Summer school organized by CLARIN:EL Infrastructure, Institute for Language Speech Processing Athena Research Center
 
 **Location**: Athens, Greece<br>
 **Dates**:  21-25 September 2026<br>
