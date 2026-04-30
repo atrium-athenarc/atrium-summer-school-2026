@@ -3,4 +3,3 @@ title: "Language resources depositing and sharing"
 # date: 2019-05-18T12:33:46+10:00
 weight: 10
 ---
-Language resources depositing and sharing
