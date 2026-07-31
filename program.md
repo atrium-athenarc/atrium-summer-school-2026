@@ -260,7 +260,7 @@ bodyClass: page-program
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>Data streams as assets of quality AI</td>
+        <td>Data streams as assets of trustworthy AI</td>
         <td>Alexandros Nousias</td>
       </tr>
       <tr>
