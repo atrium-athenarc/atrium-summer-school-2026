@@ -6,13 +6,13 @@ bodyClass: page-program
 ---
 
 <div class="schedule-content">
-  <h3>Monday 21/9</h3>
+  <h3>Monday 21/9 | Topic: Corpus creation, documentation, sharing, processing</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
         <th style="width: 20%;">Type</th>
-        <th style="width: 45%;">Topic</th>
+        <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
     </thead>
@@ -68,13 +68,13 @@ bodyClass: page-program
     </tbody>
   </table>
 
-  <h3>Tuesday 22/9</h3>
+  <h3>Tuesday 22/9 | Topic: AI /LLMs</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
         <th style="width: 20%;">Type</th>
-        <th style="width: 45%;">Topic</th>
+        <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
     </thead>
@@ -130,13 +130,13 @@ bodyClass: page-program
     </tbody>
   </table>
 
-  <h3>Wednesday 23/9</h3>
+  <h3>Wednesday 23/9 | Topic: AI</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
         <th style="width: 20%;">Type</th>
-        <th style="width: 45%;">Topic</th>
+        <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
     </thead>
@@ -192,13 +192,13 @@ bodyClass: page-program
     </tbody>
   </table>
 
-  <h3>Thursday 24/9</h3>
+  <h3>Thursday 24/9 | Cross-disciplinary uses of LT / AI</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
         <th style="width: 20%;">Type</th>
-        <th style="width: 45%;">Topic</th>
+        <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
     </thead>
@@ -254,13 +254,13 @@ bodyClass: page-program
     </tbody>
   </table>
 
-  <h3>Friday 25/9</h3>
+  <h3>Friday 25/9 | Topic: Legal issues</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
         <th style="width: 20%;">Type</th>
-        <th style="width: 45%;">Topic</th>
+        <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
     </thead>
