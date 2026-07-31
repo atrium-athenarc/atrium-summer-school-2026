@@ -11,7 +11,6 @@ bodyClass: page-program
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
-        <th style="width: 20%;">Type</th>
         <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
@@ -19,61 +18,52 @@ bodyClass: page-program
     <tbody>
       <tr>
         <td>09:30 - 10:15</td>
-        <td>lecture</td>
-        <td>Welcome / Introduction to the summer school / administrative issues / self-presentations</td>
-        <td>Gavriilidou</td>
+        <td>Welcome / Introduction to the summer school</td>
+        <td>Maria Gavriilidou</td>
       </tr>
       <tr>
         <td>10:15 - 11:00</td>
-        <td>lecture OR hands-on</td>
         <td>CLARIN:EL in the age of LLMs: how the old can feed the new</td>
-        <td>Pouli</td>
+        <td>Kanella Pouli</td>
       </tr>
       <tr class="table-secondary">
         <td>11:00 - 11:30</td>
-        <td>Break</td>
         <td>Coffee break</td>
         <td></td>
       </tr>
       <tr>
         <td>11:30 - 12:15</td>
-        <td>lecture</td>
         <td>Hands-on</td>
-        <td>Pouli</td>
+        <td>Kanella Pouli</td>
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>lecture OR hands-on</td>
-        <td>LT for DH: ATRIUM workflow for archaeologists (ASR + NLP)</td>
-        <td>Tsoukala / Prokopidis</td>
+        <td>LT for DH: assisting archaeologists on the field</td>
+        <td>Chara Tsoukala / Prokopis Prokopidis</td>
       </tr>
       <tr class="table-secondary">
         <td>13:00 - 14:30</td>
-        <td>Break</td>
         <td>Lunch break</td>
         <td></td>
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>lecture</td>
         <td>Linguistic annotation</td>
-        <td>Prokopidis</td>
+        <td>Prokopis Prokopidis</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Prokopidis</td>
+        <td>Prokopis Prokopidis</td>
       </tr>
     </tbody>
   </table>
 
-  <h3>Tuesday 22/9 | Topic: AI /LLMs</h3>
+  <h3>Tuesday 22/9 | Topic: AI / LLMs</h3>
   <table class="table table-striped table-bordered mb-5">
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
-        <th style="width: 20%;">Type</th>
         <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
@@ -81,51 +71,43 @@ bodyClass: page-program
     <tbody>
       <tr>
         <td>09:30 - 10:15</td>
-        <td>lecture</td>
         <td>Introduction to AI and Machine Learning</td>
-        <td>Katsouros / Galanis</td>
+        <td>Vassilis Katsouros / Dimitris Galanis</td>
       </tr>
       <tr>
         <td>10:15 - 11:00</td>
-        <td>lecture OR hands-on</td>
         <td>Foundations of LLMs</td>
-        <td>Katsouros / Galanis</td>
+        <td>Vassilis Katsouros / Dimitris Galanis</td>
       </tr>
       <tr class="table-secondary">
         <td>11:00 - 11:30</td>
-        <td>Break</td>
         <td>Coffee break</td>
         <td></td>
       </tr>
       <tr>
         <td>11:30 - 12:15</td>
-        <td>lecture</td>
         <td>Foundations of LLMs</td>
-        <td>Katsouros / Galanis</td>
+        <td>Vassilis Katsouros / Dimitris Galanis</td>
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Katsouros / Galanis</td>
+        <td>Vassilis Katsouros / Dimitris Galanis</td>
       </tr>
       <tr class="table-secondary">
         <td>13:00 - 14:30</td>
-        <td>Break</td>
         <td>Lunch break</td>
         <td></td>
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>lecture</td>
         <td>Preprocessing pipelines for AI ready data</td>
-        <td>Roussis</td>
+        <td>Dimitris Roussis</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Roussis</td>
+        <td>Dimitris Roussis</td>
       </tr>
     </tbody>
   </table>
@@ -135,7 +117,6 @@ bodyClass: page-program
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
-        <th style="width: 20%;">Type</th>
         <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
@@ -143,51 +124,43 @@ bodyClass: page-program
     <tbody>
       <tr>
         <td>09:30 - 10:15</td>
-        <td>lecture</td>
         <td>Adapting & fine-tuning LLMs for low-resource languages</td>
-        <td>Voukoutis</td>
+        <td>Leon Voukoutis</td>
       </tr>
       <tr>
         <td>10:15 - 11:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Voukoutis</td>
+        <td>Leon Voukoutis</td>
       </tr>
       <tr class="table-secondary">
         <td>11:00 - 11:30</td>
-        <td>Break</td>
         <td>Coffee break</td>
         <td></td>
       </tr>
       <tr>
         <td>11:30 - 12:15</td>
-        <td>lecture</td>
         <td>Evaluation of LLMs in downstream tasks</td>
-        <td>Prokopidis</td>
+        <td>Prokopis Prokopidis</td>
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Prokopidis</td>
+        <td>Prokopis Prokopidis</td>
       </tr>
       <tr class="table-secondary">
         <td>13:00 - 14:30</td>
-        <td>Break</td>
         <td>Lunch break</td>
         <td></td>
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>lecture</td>
         <td>LLMs for translation</td>
-        <td>Sofianopoulos</td>
+        <td>Sokratis Sofianopoulos</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Sofianopoulos</td>
+        <td>Sokratis Sofianopoulos</td>
       </tr>
     </tbody>
   </table>
@@ -197,7 +170,6 @@ bodyClass: page-program
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
-        <th style="width: 20%;">Type</th>
         <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
@@ -205,51 +177,43 @@ bodyClass: page-program
     <tbody>
       <tr>
         <td>09:30 - 10:15</td>
-        <td>lecture</td>
         <td>ΑΙ Applications for Language analysis</td>
-        <td>Chatzikyriakidis</td>
+        <td>Stergios Chatzikyriakidis</td>
       </tr>
       <tr>
         <td>10:15 - 11:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Chatzikyriakidis</td>
+        <td>Stergios Chatzikyriakidis</td>
       </tr>
       <tr class="table-secondary">
         <td>11:00 - 11:30</td>
-        <td>Break</td>
         <td>Coffee break</td>
         <td></td>
       </tr>
       <tr>
         <td>11:30 - 12:15</td>
-        <td>lecture</td>
         <td>AI and low-resource language varieties</td>
-        <td>Markantonatou / Bompolas / Stamou / Dimakis</td>
+        <td>Stella Markantonatou / Stavros Bompolas / Vivian Stamou / Antonis Dimakis</td>
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>lecture OR hands-on</td>
         <td>AI for the study of Ancient Greek</td>
-        <td>Pavlopoulos / Platanou</td>
+        <td>Jannis Pavlopoulos / Paraskevi Platanou</td>
       </tr>
       <tr class="table-secondary">
         <td>13:00 - 14:30</td>
-        <td>Break</td>
         <td>Lunch break</td>
         <td></td>
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>lecture</td>
         <td>AI for Historical Document Analysis: from Images to Knowledge</td>
-        <td>Gatos</td>
+        <td>Vassilis Gatos</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Gatos</td>
+        <td>Vassilis Gatos</td>
       </tr>
     </tbody>
   </table>
@@ -259,7 +223,6 @@ bodyClass: page-program
     <thead class="thead-light">
       <tr>
         <th style="width: 15%;">Time</th>
-        <th style="width: 20%;">Type</th>
         <th style="width: 45%;">Session Title</th>
         <th style="width: 20%;">Lecturer</th>
       </tr>
@@ -267,51 +230,43 @@ bodyClass: page-program
     <tbody>
       <tr>
         <td>09:30 - 10:15</td>
-        <td>lecture</td>
         <td>Social Biases in the era of LLMs</td>
-        <td>Gkirtzou</td>
+        <td>Katerina Gkirtzou</td>
       </tr>
       <tr>
         <td>10:15 - 11:00</td>
-        <td>lecture OR hands-on</td>
-        <td></td>
-        <td></td>
+        <td>Hands-on</td>
+        <td>Katerina Gkirtzou</td>
       </tr>
       <tr class="table-secondary">
         <td>11:00 - 11:30</td>
-        <td>Break</td>
         <td>Coffee break</td>
         <td></td>
       </tr>
       <tr>
         <td>11:30 - 12:15</td>
-        <td>lecture</td>
-        <td>Explainability</td>
-        <td>Paraskevopoulos</td>
+        <td>Explainability in AI</td>
+        <td>George Paraskevopoulos</td>
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>lecture OR hands-on</td>
         <td>Hands-on</td>
-        <td>Paraskevopoulos</td>
+        <td>George Paraskevopoulos</td>
       </tr>
       <tr class="table-secondary">
         <td>13:00 - 14:30</td>
-        <td>Break</td>
         <td>Lunch break</td>
         <td></td>
       </tr>
       <tr>
         <td>14:30 - 15:15</td>
-        <td>lecture</td>
         <td>Data streams as assets of quality AI</td>
         <td>Alexandros Nousias</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
-        <td>lecture OR hands-on</td>
-        <td>Wrap-up / Feedback / questionnaire</td>
-        <td>Gavriilidou</td>
+        <td>Wrap-up / Feedback</td>
+        <td>Maria Gavriilidou</td>
       </tr>
     </tbody>
   </table>
