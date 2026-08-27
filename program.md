@@ -38,7 +38,7 @@ bodyClass: page-program
       </tr>
       <tr>
         <td>12:15 - 13:00</td>
-        <td>LT for DH: assisting archaeologists on the field</td>
+        <td>Voice Note-Taking for Archaeological Fieldwork: From Voice Input to Structured Data</td>
         <td>Chara Tsoukala / Prokopis Prokopidis</td>
       </tr>
       <tr class="table-secondary">
