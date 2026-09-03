@@ -1,8 +1,8 @@
 ---
 title: "Stergios Chatzikyriakidis"
 date: 2018-12-20T13:44:23+10:00
-# jobtitle: "Developer"
-weight: 2
+jobtitle: "Professor"
+weight: 1
 promoted: true
 ---
 
