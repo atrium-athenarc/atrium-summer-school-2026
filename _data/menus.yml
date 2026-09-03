@@ -11,9 +11,12 @@ main:
   - name: "CLARIN:EL"
     url: "/clarinel"
     weight: 3
+  - name: "Speakers"
+    url: "/speakers"
+    weight: 6
   - name: "Contact"
     url: "/contact"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Home"
