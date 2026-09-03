@@ -1,7 +1,7 @@
 ---
 title: "Stella Markantonatou"
 date: 2018-12-20T13:44:23+10:00
-# jobtitle: "Developer"
+jobtitle: "Emeritus Research Director"
 weight: 4
 promoted: true
 ---
