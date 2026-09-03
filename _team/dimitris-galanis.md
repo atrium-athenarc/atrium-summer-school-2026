@@ -1,7 +1,7 @@
 ---
 title: "Dimitris Galanis"
 date: 2018-12-20T13:45:06+10:00
-# jobtitle: "Developer"
+jobtitle: "Principal Researcher"
 promoted: true
 weight: 1
 ---
