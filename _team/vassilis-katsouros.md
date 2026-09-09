@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Katsouros"
 date: 2018-11-19T10:47:58+10:00
-jobtitle: "Research Director and Director of Institute for Language and Speech Processing, Athena Research Center"
+jobtitle: "Research Director and Director of ILSP/ATHENA RC"
 promoted: true
 weight: 5
 ---
