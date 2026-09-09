@@ -1,7 +1,7 @@
 ---
 title: "Antonis Dimakis"
 date: 2018-11-19T10:47:58+10:00
-# jobtitle: "PhD researcher and academic fellow at Archimedes Unit, Athena RC"
+jobtitle: "PhD researcher and academic fellow at Archimedes Unit, Athena RC"
 promoted: true
 weight: 2
 ---
