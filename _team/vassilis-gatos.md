@@ -1,7 +1,7 @@
 ---
 title: "Basilis Gatos"
 date: 2018-11-19T10:47:58+10:00
-jobtitle: "Senior Researcher"
+jobtitle: "Research Director"
 promoted: true
 weight: 3
 ---
