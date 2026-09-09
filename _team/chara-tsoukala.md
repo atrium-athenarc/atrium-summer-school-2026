@@ -1,7 +1,7 @@
 ---
 title: "Chara Tsoukala"
 date: 2018-12-20T13:44:30+10:00
-# jobtitle: "Scientific Associate"
+jobtitle: "Scientific Associate"
 promoted: true
 weight: 9
 ---
