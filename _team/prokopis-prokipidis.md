@@ -2,7 +2,7 @@
 title: "Prokopis Prokopidis"
 date: 2018-12-20T13:44:23+10:00
 jobtitle: "Senior Research Fellow"
-weight: 8
+weight: 13
 promoted: true
 ---
 
