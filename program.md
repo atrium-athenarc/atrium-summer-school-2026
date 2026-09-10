@@ -208,12 +208,12 @@ bodyClass: page-program
       <tr>
         <td>14:30 - 15:15</td>
         <td>AI for Historical Document Analysis: from Images to Knowledge</td>
-        <td>Vassilis Gatos</td>
+        <td>Basilis Gatos</td>
       </tr>
       <tr>
         <td>15:15 - 16:00</td>
         <td>Hands-on</td>
-        <td>Vassilis Gatos</td>
+        <td>Basilis Gatos</td>
       </tr>
     </tbody>
   </table>
