@@ -3,7 +3,7 @@ main:
     url: "/apply"
     weight: 4
   - name: "Programme"
-    url: "/programme"
+    url: "/program"
     weight: 5
   - name: "About"
     url: "/about"
