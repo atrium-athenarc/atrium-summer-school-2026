@@ -2,7 +2,7 @@
 title: "Sokratis Sofianopulos"
 date: 2018-12-20T13:44:23+10:00
 jobtitle: "Scientific Associate"
-weight: 22
+weight: 15
 promoted: true
 ---
 
