@@ -2,8 +2,8 @@ main:
   - name: "Apply"
     url: "/apply"
     weight: 4
-  - name: "Program"
-    url: "/program"
+  - name: "Programme"
+    url: "/programme"
     weight: 5
   - name: "About"
     url: "/about"
